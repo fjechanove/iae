@@ -1,0 +1,5 @@
+class Hello_world:
+	def imprimir():
+		print("Hello world")
+hw = Hello_world
+hw.imprimir()
